@@ -1,0 +1,207 @@
+*
+{
+	margin: 0px;
+	padding:0px;
+}
+ul
+{
+	list-style: none;
+}
+li
+{
+	display: inline;
+}
+#Navigation
+{
+	margin: 0px auto;
+	width: 100%;
+	padding: 5px 0px;
+	background-color: #663300;
+	color: #996600;
+	border-radius: 5px;
+}
+#wrapper
+{
+	margin: 0px auto;
+	padding: 0px;
+	border-radius: 10px;
+}
+nav ul 
+{
+	padding: 5px;
+	margin: 5px;
+}
+nav ul li
+{
+	text-align: center;
+	padding-left: 30px;
+}
+#sitename
+{
+	font-size: 45px;
+	text-align: center;
+	float: right;
+	font-family: verdana;
+	font-weight: bold;
+	padding-top: 35px;
+	padding-right: 20px;
+	color: #7C0707;
+	text-shadow:2px 1px 1px black;
+}
+nav ul li a
+{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 22px;
+}
+nav ul li a:hover
+{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+body 
+{
+	background:url('backgrounds/wood_backdrop.jpg');
+	width: 800px;
+	margin:0 auto;
+	background-color: pink;
+}
+#wrapper
+{
+	float: left;
+	padding-top:10px;
+	background: white;
+
+}
+#welcome
+{
+	float: left;
+	width: 770px;
+	clear: both;
+	padding: 5px;
+}
+
+.post 
+{
+	float: left;
+	width: 780px;
+	border-radius: 8px;
+	border: 1px solid black;
+	padding: 10px;
+	margin-top: 5px;
+}
+.all_posts
+{
+	float: left;
+	margin-top: 15px;
+}
+.comment
+{
+	margin-left: 20px;
+}
+.commentContent
+{
+	float:left;
+	clear:both;
+
+	padding-left: 8px;
+	padding-right: 8px;
+	width:740px;
+	border-radius: 5px;
+	border: 1px solid black;
+}
+.commentContent:nth-child(odd) 
+{
+		background-color: #EFE4B0;
+}
+#logo
+{
+	height: 70px;
+	background-image: url('backgrounds/web-page-backgrounds-1.jpg');
+	padding: 20px;
+	padding-left: 50px;
+	color: #663300;
+}
+#content 
+{
+	border-radius: 10px;
+	width: 800px;
+	
+}
+
+
+#addpostarea
+{
+	float: left;
+	padding: 20px;
+	border-radius: 10px;
+	margin: 0px auto;
+	border:  1px solid black;
+}
+fieldset
+{
+	border: 0px;
+}
+.right
+{
+	float: right;
+	clear: both;
+}
+
+.error
+{
+	float: left;
+	
+}
+.iso 
+{
+	margin: 5px;
+	padding-right:299px;
+}
+#postTitle
+{
+	width: 650px;
+	
+	float: right;
+}
+
+.center
+{
+	float: left;
+	clear: both;
+}
+
+input,label,select
+{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.search
+{
+	width: 600px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+	border: 1px solid black;
+	float: left;
+	padding:20px; 
+}
+legend
+{
+	font-family: cursive;
+	font-weight: bold;
+}
+#content
+{
+	padding: 10px;
+	float: left;
+	background-color: white;
+
+}
+.bold 
+{
+	font-weight: bolder;
+}
