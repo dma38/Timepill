@@ -1,4 +1,4 @@
-# Timepill
+﻿# Timepill
 Timepill social diary blog
 
 Timepill blog is a simple web diary focusing on the social aspects.
@@ -19,13 +19,13 @@ Admins have the permission to delete posts.
 
 Functions, Tools, and Technologies:
 
-HTML/CSS/Javascript
-WYSIWYG editor
-Content management (CRUD)
-CAPTCHA verification
-Sanitization
-Image upload and display
-Session and login
-Associated tables in database
-Passwords stored in database are hashed and salted
+HTML/CSS/Javascript, 
+WYSIWYG editor, 
+Content management (CRUD), 
+CAPTCHA verification, 
+Sanitization, 
+Image upload and display, 
+Session and login, 
+Associated tables in database, 
+Passwords stored in database are hashed and salted, 
 etc
